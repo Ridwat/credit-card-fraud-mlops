@@ -1,5 +1,5 @@
+.idea/
 .venv/
 __pycache__/
 *.pyc
-data/creditcard.csv
 data/*.csv
